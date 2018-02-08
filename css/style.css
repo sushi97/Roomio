@@ -1,0 +1,33 @@
+.full-vh {
+    height: 100vh;
+}
+
+.video-wrapper {
+    overflow: hidden;
+}
+
+.header-overlay {
+    height: 100vh;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    z-index: 1;
+    background-image: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    opacity: 0.9;
+}
+
+.header-content{
+    color: #FFFFFF;
+    position: relative;
+    text-align: center;
+    top: 50%;
+    transform: translateY(-50%);
+    z-index:2;
+    opacity: 1;
+  }
+
+  .header-content a {
+      color: #FFFFFF;
+      opacity: 1;
+  }
