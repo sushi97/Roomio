@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Roomio</title>
+    <meta name="description" content="Best meeting room booking app.">
+    <meta name="author" content="sushi97">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link href="https://fonts.googleapis.com/css?family=Raleway:300,400,600" rel="stylesheet">
+
+    <link rel="stylesheet" href="css/normalize.css">
+    <link rel="stylesheet" href="css/skeleton.css">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+    <div class="row full-vh u-full-width video-wrapper">
+         <video muted autoplay loop playsinline poster="video/Empire.jpg">
+  		<source src="video/Empire.mp4" type="video/mp4">
+  		<source src="video/Empire.ogv" type="video/ogv">
+		<source src="video/Empire.webm" type="video/webm">
+		Your browser does not support the video tag.
+	</video> 
+        <div class="header-overlay">
+            <div class="header-content">
+                <h1>Roomio</h1>
+                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. </p>
+                <a class="button">Find Out More</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="row">
+	    <br><br>
+            <h3>Attractive title</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+	    <br>
+	    <br>
+        </div>
+
+	<div class="row">
+	    <div class="one-third column">
+		<img src="http://via.placeholder.com/350x150" width="100%">
+		<h3>Attractive title</h2>
+            	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+	    </div>
+
+	    <div class="one-third column">
+		<img src="http://via.placeholder.com/350x150" width="100%">
+		<h3>Attractive title</h2>
+            	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+	    </div>
+
+	    <div class="one-third column">
+		<img src="http://via.placeholder.com/350x150" width="100%">
+		<h3>Attractive title</h2>
+            	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+	    </div>
+        </div>
+
+	<div class="row">
+	    <br><br>
+            <h3>Attractive title</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+        </div>
+    </div>
+
+    
+
+</body>
+
+</html>
