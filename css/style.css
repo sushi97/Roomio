@@ -6,6 +6,12 @@
     overflow: hidden;
 }
 
+.video-wrapper video {
+    object-fit: cover;
+    min-width: 100vw;
+    min-height: 100vh;
+}
+
 .header-overlay {
     height: 100vh;
     position: absolute;
@@ -14,7 +20,7 @@
     width: 100vw;
     z-index: 1;
     background-image: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-    opacity: 0.9;
+    opacity: 0.95;
 }
 
 .header-content{
