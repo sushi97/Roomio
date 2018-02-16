@@ -1,3 +1,23 @@
+.nav {
+    height: 8vh;
+    z-index: 4;
+    position: fixed;
+}
+
+.center-y {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.nav a {
+    height: 3em;
+    line-height: 3em;
+    color: #FFFFFF;
+    margin: 0px 5px 0px 0px;
+    padding: 0% 3%;
+}
+
 .full-vh {
     height: 100vh;
 }
@@ -23,13 +43,13 @@
     opacity: 0.95;
 }
 
-.header-content{
+.header-content {
     color: #FFFFFF;
     position: relative;
     text-align: center;
     top: 50%;
     transform: translateY(-50%);
-    z-index:2;
+    z-index: 2;
     opacity: 1;
 }
 
